@@ -109,14 +109,6 @@ The files `playbook cases-1.pdf` and `playbook cases-2.pdf` contain:
 
 ---
 
-## 📞 Contact & Support
-
-- **Repository**: [DEPI_Project](https://github.com/abdelrahmanmahmoudali4-glitch/DEPI_Project)
-- **Project Type**: Incident Response Team
-- **Level**: Graduation Project
-
----
-
 ## ✅ Important Notes
 
 ⚠️ **Security First**: Ensure all playbook steps are followed  
